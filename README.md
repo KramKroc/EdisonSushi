@@ -3,13 +3,13 @@ Handouts designed to be used with the Meet Edison robot within a CoderDojo sessi
 
 **Creative Commons License**
 
-These Cards are based on *Your EdVenture into Robotics- 10 Lesson Plans by RoboticsWPS - Michele Miller* and is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
-Based on a work at (http://www.meetedison.com)
+These Cards are based on *Your EdVenture into Robotics- 10 Lesson Plans by [RoboticsWPS - Michele Miller](http://www.roboticswps.com.au/)* and is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](http://creativecommons.org/licenses/by-sa/4.0/)
+Based on a work at http://www.meetedison.com
 
 You are free to:
 
-Share — copy and redistribute the material in any medium or format
-Adapt — remix, transform, and build upon the material
+* Share — copy and redistribute the material in any medium or format.
+* Adapt — remix, transform, and build upon the material
 for any purpose, even commercially.
 
 Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
